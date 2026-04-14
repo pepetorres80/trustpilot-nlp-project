@@ -1,3 +1,18 @@
+# 📊 NLP aplicado a reseñas de Trustpilot
+
+Análisis de la experiencia del cliente en Airtime Rewards mediante técnicas de Machine Learning y Procesamiento de Lenguaje Natural.
+
+---
+
+## 🚀 Resultados clave
+
+- 60% de reseñas negativas  
+- Problema central en el sistema de recompensas  
+- Diferencias estructurales frente a la competencia  
+
+👉 Insight principal:  
+**Cuando falla el cashback, falla toda la experiencia del cliente**
+
 # 📊 Análisis de reseñas con NLP — Airtime Rewards
 
 ## 🧠 Descripción
