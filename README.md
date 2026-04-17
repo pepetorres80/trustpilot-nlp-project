@@ -10,10 +10,15 @@ Análisis de la experiencia del cliente en Airtime Rewards mediante técnicas de
 - Problema central en el sistema de recompensas  
 - Diferencias estructurales frente a la competencia  
 
-👉 Insight principal:  
-**Cuando falla el cashback, falla toda la experiencia del cliente**
+👉 Insight clave:
+
+**El problema no está en el servicio, sino en el producto, y este patrón se mantiene consistente en todos los enfoques analíticos aplicados (LDA, grafos y BERTopic)**
 
 # 📊 Análisis de reseñas con NLP — Airtime Rewards
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-NLP-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## 🧠 Descripción
 
@@ -111,6 +116,12 @@ Permite identificar:
 
 ---
 
+### 8. Validación con BERTopic
+
+* Aplicación de BERTopic (modelo basado en embeddings)
+* Validación de los temas obtenidos con LDA
+* Confirmación de consistencia en los patrones detectados
+
 ## 🔍 Resultados principales
 
 * El **60% de las reseñas son negativas**
@@ -165,6 +176,7 @@ README.md
 * NLTK
 * NetworkX
 * Matplotlib
+* BERTopic
 
 ---
 
@@ -172,7 +184,10 @@ README.md
 
 El análisis revela que Airtime Rewards presenta problemas estructurales en su sistema de recompensas, afectando directamente a la experiencia del cliente.
 
+Estos resultados han sido consistentes a través de diferentes enfoques analíticos, incluyendo modelado de temas (LDA), análisis de grafos y validación mediante BERTopic, lo que refuerza la solidez de las conclusiones obtenidas.
+
 La mejora del sistema de cashback es clave para aumentar la satisfacción y competitividad en el mercado.
+
 
 ---
 
